@@ -1,0 +1,16 @@
+[lsp]2024/03/24 main.go:16: hey i started
+[lsp]2024/03/24 main.go:38: Received message with method: initialize
+[lsp]2024/03/24 main.go:47: connected to: Neovim 0.9.2
+[lsp]2024/03/24 main.go:56: send the response
+[lsp]2024/03/24 main.go:38: Received message with method: initialized
+[lsp]2024/03/24 main.go:38: Received message with method: textDocument/didOpen
+[lsp]2024/03/24 main.go:67: Opened: file:///C:/users/rodrigo/appdata/local/nvim/s.md 
+[lsp]2024/03/24 main.go:38: Received message with method: textDocument/didChange
+[lsp]2024/03/24 main.go:77: Changed file:///C:/users/rodrigo/appdata/local/nvim/s.md 
+[lsp]2024/03/24 main.go:38: Received message with method: textDocument/completion
+[lsp]2024/03/24 main.go:38: Received message with method: textDocument/didChange
+[lsp]2024/03/24 main.go:77: Changed file:///C:/users/rodrigo/appdata/local/nvim/s.md 
+[lsp]2024/03/24 main.go:38: Received message with method: textDocument/completion
+[lsp]2024/03/24 main.go:38: Received message with method: textDocument/hover
+[lsp]2024/03/24 main.go:38: Received message with method: textDocument/didChange
+[lsp]2024/03/24 main.go:77: Changed file:///C:/users/rodrigo/appdata/local/nvim/s.md 
